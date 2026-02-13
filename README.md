@@ -111,6 +111,6 @@ La documentation détaillée (cadrage, architecture, décisions techniques, évo
 
 🔗 Confluence : <(https://imanelen25-1770646756973.atlassian.net/wiki/pages/resumedraft.action?draftId=557057&draftShareId=64e1f518-d0d7-481c-815f-32b6aff04291)>
 
----
+
 
 
