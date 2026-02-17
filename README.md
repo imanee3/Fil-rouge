@@ -88,12 +88,16 @@ Sources publiques utilisées :
 
 ##  Structure du Repository
 
-📁 data/   → Datasets générés<br>
-📁 scripts/   → Scripts extraction & génération CSV<br>
-📁 notebooks/    → EDA & analyses<br>
-📁 dashboards/       → Fichier Power BI<br>
-Cahier de charge.docx<br>
-README.md<br>
+📁 data/           <br>
+   ├── raw/              → Données brutes (API, FastF1, Web Scraping) <br>
+   ├── processed/        → Données nettoyées et prêtes pour analyse  <br>
+📁 cache/                → Cache FastF1 (non versionné)  <br>
+📁 scripts/              → Scripts d’extraction & génération des CSV  <br>
+📁 notebooks/            → EDA, calcul des KPIs, analyses statistiques  <br>
+📁 dashboards/           → Fichier Power BI (.pbix)  <br>
+📄 Cahier_de_charge.docx → Documentation fonctionnelle  <br>
+📄 README.md             → Présentation du projet  <br>
+
 
 ---
 
