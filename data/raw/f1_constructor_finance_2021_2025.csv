@@ -1,0 +1,51 @@
+season,constructorId,constructorName,constructorRank,constructorPoints,costCapUSD
+2021,mercedes,Mercedes,1,613.5,145000000
+2021,red_bull,Red Bull,2,585.5,145000000
+2021,ferrari,Ferrari,3,323.5,145000000
+2021,mclaren,McLaren,4,275.0,145000000
+2021,alpine,Alpine F1 Team,5,155.0,145000000
+2021,alphatauri,AlphaTauri,6,142.0,145000000
+2021,aston_martin,Aston Martin,7,77.0,145000000
+2021,williams,Williams,8,23.0,145000000
+2021,alfa,Alfa Romeo,9,13.0,145000000
+2021,haas,Haas F1 Team,10,0.0,145000000
+2022,red_bull,Red Bull,1,759.0,140000000
+2022,ferrari,Ferrari,2,554.0,140000000
+2022,mercedes,Mercedes,3,515.0,140000000
+2022,alpine,Alpine F1 Team,4,173.0,140000000
+2022,mclaren,McLaren,5,159.0,140000000
+2022,alfa,Alfa Romeo,6,55.0,140000000
+2022,aston_martin,Aston Martin,7,55.0,140000000
+2022,haas,Haas F1 Team,8,37.0,140000000
+2022,alphatauri,AlphaTauri,9,35.0,140000000
+2022,williams,Williams,10,8.0,140000000
+2023,red_bull,Red Bull,1,860.0,135000000
+2023,mercedes,Mercedes,2,409.0,135000000
+2023,ferrari,Ferrari,3,406.0,135000000
+2023,mclaren,McLaren,4,302.0,135000000
+2023,aston_martin,Aston Martin,5,280.0,135000000
+2023,alpine,Alpine F1 Team,6,120.0,135000000
+2023,williams,Williams,7,28.0,135000000
+2023,alphatauri,AlphaTauri,8,25.0,135000000
+2023,alfa,Alfa Romeo,9,16.0,135000000
+2023,haas,Haas F1 Team,10,12.0,135000000
+2024,mclaren,McLaren,1,666.0,135000000
+2024,ferrari,Ferrari,2,652.0,135000000
+2024,red_bull,Red Bull,3,589.0,135000000
+2024,mercedes,Mercedes,4,468.0,135000000
+2024,aston_martin,Aston Martin,5,94.0,135000000
+2024,alpine,Alpine F1 Team,6,65.0,135000000
+2024,haas,Haas F1 Team,7,58.0,135000000
+2024,rb,RB F1 Team,8,46.0,135000000
+2024,williams,Williams,9,17.0,135000000
+2024,sauber,Sauber,10,4.0,135000000
+2025,mclaren,McLaren,1,833.0,135000000
+2025,mercedes,Mercedes,2,469.0,135000000
+2025,red_bull,Red Bull,3,451.0,135000000
+2025,ferrari,Ferrari,4,398.0,135000000
+2025,williams,Williams,5,137.0,135000000
+2025,rb,RB F1 Team,6,92.0,135000000
+2025,aston_martin,Aston Martin,7,89.0,135000000
+2025,haas,Haas F1 Team,8,79.0,135000000
+2025,sauber,Sauber,9,70.0,135000000
+2025,alpine,Alpine F1 Team,10,22.0,135000000
