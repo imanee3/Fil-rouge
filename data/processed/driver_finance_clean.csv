@@ -1,0 +1,111 @@
+season,driverId,driverName,constructorId,driverRank,driverPoints,salary_raw,estimatedSalaryUSD,salarySourceURL,salaryMissingFlag,salaryCoverageStatus,estimatedSalaryUSD_imputed
+2021,max_verstappen,Max Verstappen,red_bull,1,395.5,$25m,25000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,25000000.0
+2021,hamilton,Lewis Hamilton,mercedes,2,387.5,$30m,30000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,30000000.0
+2021,bottas,Valtteri Bottas,mercedes,3,226.0,$10m,10000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,10000000.0
+2021,perez,Sergio Pérez,red_bull,4,190.0,$8m,8000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,8000000.0
+2021,sainz,Carlos Sainz,ferrari,5,164.5,$10m,10000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,10000000.0
+2021,norris,Lando Norris,mclaren,6,160.0,$5m,5000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,5000000.0
+2021,leclerc,Charles Leclerc,ferrari,7,159.0,$12m,12000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,12000000.0
+2021,ricciardo,Daniel Ricciardo,mclaren,8,115.0,$15m,15000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,15000000.0
+2021,gasly,Pierre Gasly,alphatauri,9,110.0,$5m,5000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,5000000.0
+2021,alonso,Fernando Alonso,alpine,10,81.0,$20m,20000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,20000000.0
+2021,ocon,Esteban Ocon,alpine,11,74.0,$5m,5000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,5000000.0
+2021,vettel,Sebastian Vettel,aston_martin,12,43.0,$15m,15000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,15000000.0
+2021,stroll,Lance Stroll,aston_martin,13,34.0,$10m,10000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,10000000.0
+2021,tsunoda,Yuki Tsunoda,alphatauri,14,32.0,$500k,500000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,500000000.0
+2021,russell,George Russell,williams,15,16.0,$1m,1000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,1000000.0
+2021,raikkonen,Kimi Räikkönen,alfa,16,10.0,$10m,10000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,10000000.0
+2021,latifi,Nicholas Latifi,williams,17,7.0,$1m,1000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,1000000.0
+2021,giovinazzi,Antonio Giovinazzi,alfa,18,3.0,$1m,1000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,1000000.0
+2021,mick_schumacher,Mick Schumacher,haas,19,0.0,$1m,1000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,1000000.0
+2021,kubica,Robert Kubica,alfa,20,0.0,,,,1,missing_public_salary,10000000.0
+2021,mazepin,Nikita Mazepin,haas,21,0.0,$1m,1000000.0,https://racingnews365.com/formula-1-driver-salaries-2021,0,salary_available,1000000.0
+2022,max_verstappen,Max Verstappen,red_bull,1,454.0,35,35000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,35000000.0
+2022,leclerc,Charles Leclerc,ferrari,2,308.0,12,12000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,12000000.0
+2022,perez,Sergio Pérez,red_bull,3,305.0,10,10000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,10000000.0
+2022,russell,George Russell,mercedes,4,275.0,5,5000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,5000000.0
+2022,sainz,Carlos Sainz,ferrari,5,246.0,10,10000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,10000000.0
+2022,hamilton,Lewis Hamilton,mercedes,6,240.0,40,40000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,40000000.0
+2022,norris,Lando Norris,mclaren,7,122.0,15,15000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,15000000.0
+2022,ocon,Esteban Ocon,alpine,8,92.0,5,5000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,5000000.0
+2022,alonso,Fernando Alonso,alpine,9,81.0,20,20000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,20000000.0
+2022,bottas,Valtteri Bottas,alfa,10,49.0,10,10000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,10000000.0
+2022,ricciardo,Daniel Ricciardo,mclaren,11,37.0,15,15000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,15000000.0
+2022,vettel,Sebastian Vettel,aston_martin,12,37.0,15,15000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,15000000.0
+2022,kevin_magnussen,Kevin Magnussen,haas,13,25.0,5,5000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,5000000.0
+2022,gasly,Pierre Gasly,alphatauri,14,23.0,5,5000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,5000000.0
+2022,stroll,Lance Stroll,aston_martin,15,18.0,10,10000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,10000000.0
+2022,mick_schumacher,Mick Schumacher,haas,16,12.0,1,1000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,1000000.0
+2022,tsunoda,Yuki Tsunoda,alphatauri,17,12.0,0.75,750000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,750000.0
+2022,zhou,Guanyu Zhou,alfa,18,6.0,1,1000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,1000000.0
+2022,albon,Alexander Albon,williams,19,4.0,2,2000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,2000000.0
+2022,latifi,Nicholas Latifi,williams,20,2.0,1,1000000.0,https://racingnews365.com/what-are-the-driver-salaries-for-2022,0,salary_available,1000000.0
+2022,de_vries,Nyck de Vries,williams,21,2.0,,,,1,missing_public_salary,10000000.0
+2022,hulkenberg,Nico Hülkenberg,aston_martin,22,0.0,,,,1,missing_public_salary,10000000.0
+2023,max_verstappen,Max Verstappen,red_bull,1,575.0,55,55000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,55000000.0
+2023,perez,Sergio Pérez,red_bull,2,285.0,10,10000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,10000000.0
+2023,hamilton,Lewis Hamilton,mercedes,3,234.0,35,35000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,35000000.0
+2023,alonso,Fernando Alonso,aston_martin,4,206.0,5,5000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,5000000.0
+2023,leclerc,Charles Leclerc,ferrari,5,206.0,24,24000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,24000000.0
+2023,norris,Lando Norris,mclaren,6,205.0,20,20000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,20000000.0
+2023,sainz,Carlos Sainz,ferrari,7,200.0,12,12000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,12000000.0
+2023,russell,George Russell,mercedes,8,175.0,8,8000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,8000000.0
+2023,piastri,Oscar Piastri,mclaren,9,97.0,2,2000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,2000000.0
+2023,stroll,Lance Stroll,aston_martin,10,74.0,2,2000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,2000000.0
+2023,gasly,Pierre Gasly,alpine,11,62.0,5,5000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,5000000.0
+2023,ocon,Esteban Ocon,alpine,12,58.0,6,6000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,6000000.0
+2023,albon,Alexander Albon,williams,13,27.0,3,3000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,3000000.0
+2023,tsunoda,Yuki Tsunoda,alphatauri,14,17.0,1,1000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,1000000.0
+2023,bottas,Valtteri Bottas,alfa,15,10.0,10,10000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,10000000.0
+2023,hulkenberg,Nico Hülkenberg,haas,16,9.0,2,2000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,2000000.0
+2023,ricciardo,Daniel Ricciardo,alphatauri,17,6.0,,,,1,missing_public_salary,5000000.0
+2023,zhou,Guanyu Zhou,alfa,18,6.0,2,2000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,2000000.0
+2023,kevin_magnussen,Kevin Magnussen,haas,19,3.0,5,5000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,5000000.0
+2023,lawson,Liam Lawson,alphatauri,20,2.0,,,,1,missing_public_salary,5000000.0
+2023,sargeant,Logan Sargeant,williams,21,1.0,1,1000000.0,https://racingnews365.com/f1-driver-salaries-2023,0,salary_available,1000000.0
+2023,de_vries,Nyck de Vries,alphatauri,22,0.0,,,,1,missing_public_salary,5000000.0
+2025,norris,Lando Norris,mclaren,1,423.0,20,20000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,20000000.0
+2025,max_verstappen,Max Verstappen,red_bull,2,421.0,65,65000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,65000000.0
+2025,piastri,Oscar Piastri,mclaren,3,410.0,6,6000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,6000000.0
+2025,russell,George Russell,mercedes,4,319.0,15,15000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,15000000.0
+2025,leclerc,Charles Leclerc,ferrari,5,242.0,34,34000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,34000000.0
+2025,hamilton,Lewis Hamilton,ferrari,6,156.0,60,60000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,60000000.0
+2025,antonelli,Andrea Kimi Antonelli,mercedes,7,150.0,2,2000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,2000000.0
+2025,albon,Alexander Albon,williams,8,73.0,8,8000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,8000000.0
+2025,sainz,Carlos Sainz,williams,9,64.0,10,10000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,10000000.0
+2025,alonso,Fernando Alonso,aston_martin,10,56.0,20,20000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,20000000.0
+2025,hulkenberg,Nico Hülkenberg,sauber,11,51.0,7,7000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,7000000.0
+2025,hadjar,Isack Hadjar,rb,12,51.0,"0,5-1",750000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,750000.0
+2025,bearman,Oliver Bearman,haas,13,41.0,1,1000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,1000000.0
+2025,lawson,Liam Lawson,red_bull,14,38.0,1,1000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,1000000.0
+2025,ocon,Esteban Ocon,haas,15,38.0,7,7000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,7000000.0
+2025,stroll,Lance Stroll,aston_martin,16,33.0,3,3000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,3000000.0
+2025,tsunoda,Yuki Tsunoda,rb,17,33.0,2,2000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,2000000.0
+2025,gasly,Pierre Gasly,alpine,18,22.0,10,10000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,10000000.0
+2025,bortoleto,Gabriel Bortoleto,sauber,19,19.0,2,2000000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,2000000.0
+2025,colapinto,Franco Colapinto,alpine,20,0.0,,,,1,missing_public_salary,7000000.0
+2025,doohan,Jack Doohan,alpine,21,0.0,"0,5-1",750000.0,https://racingnews365.com/2025-f1-driver-salaries-how-much-do-f1-drivers-earn,0,salary_available,750000.0
+2024,max_verstappen,Max Verstappen,red_bull,1,437.0,$55 million,55000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,55000000.0
+2024,norris,Lando Norris,mclaren,2,374.0,$20 million,20000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,20000000.0
+2024,leclerc,Charles Leclerc,ferrari,3,356.0,$34 million,34000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,34000000.0
+2024,piastri,Oscar Piastri,mclaren,4,292.0,$6 million,6000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,6000000.0
+2024,sainz,Carlos Sainz,ferrari,5,290.0,$12 million,12000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,12000000.0
+2024,russell,George Russell,mercedes,6,245.0,$18 million,18000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,18000000.0
+2024,hamilton,Lewis Hamilton,mercedes,7,223.0,$45 million,45000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,45000000.0
+2024,perez,Sergio Pérez,red_bull,8,152.0,$14 million,14000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,14000000.0
+2024,alonso,Fernando Alonso,aston_martin,9,70.0,$18 million,18000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,18000000.0
+2024,gasly,Pierre Gasly,alpine,10,42.0,$6 million,6000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,6000000.0
+2024,hulkenberg,Nico Hülkenberg,haas,11,41.0,$2 million,2000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,2000000.0
+2024,tsunoda,Yuki Tsunoda,rb,12,30.0,$1 million,1000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,1000000.0
+2024,stroll,Lance Stroll,aston_martin,13,24.0,$3 million,3000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,3000000.0
+2024,ocon,Esteban Ocon,alpine,14,23.0,$6 million,6000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,6000000.0
+2024,kevin_magnussen,Kevin Magnussen,haas,15,16.0,$5 million,5000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,5000000.0
+2024,albon,Alexander Albon,williams,16,12.0,$3 million,3000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,3000000.0
+2024,ricciardo,Daniel Ricciardo,rb,17,12.0,$7 million,7000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,7000000.0
+2024,bearman,Oliver Bearman,ferrari,18,7.0,,,,1,missing_public_salary,7000000.0
+2024,colapinto,Franco Colapinto,williams,19,5.0,,,,1,missing_public_salary,7000000.0
+2024,zhou,Guanyu Zhou,sauber,20,4.0,,,,1,missing_public_salary,7000000.0
+2024,lawson,Liam Lawson,rb,21,4.0,,,,1,missing_public_salary,7000000.0
+2024,bottas,Valtteri Bottas,sauber,22,0.0,$10 million,10000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,10000000.0
+2024,sargeant,Logan Sargeant,williams,23,0.0,$1 million,1000000.0,https://www.nbcnewyork.com/news/sports/how-much-are-f1-drivers-paid-salaries-2024/5192874/,0,salary_available,1000000.0
+2024,doohan,Jack Doohan,alpine,24,0.0,,,,1,missing_public_salary,7000000.0
