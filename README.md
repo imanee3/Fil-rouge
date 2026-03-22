@@ -91,6 +91,7 @@ Sources publiques utilisées :
 📁 data/           <br>
    ├── raw/              → Données brutes (API, FastF1, Web Scraping) <br>
    ├── processed/        → Données nettoyées et prêtes pour analyse  <br>
+   |___ gold /           → Data finale 
 📁 cache/                → Cache FastF1 (non versionné)  <br>
 📁 scripts/              → Scripts d’extraction & génération des CSV  <br>
 📁 notebooks/            → EDA, nettoyge, calcul des KPIs, analyses statistiques  <br>
