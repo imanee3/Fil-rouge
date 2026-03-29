@@ -1,32 +1,32 @@
-circuit,gp
-Yas Island,Abu Dhabi Grand Prix
-Melbourne,Australian Grand Prix
-Spielberg,Austrian Grand Prix
-Baku,Azerbaijan Grand Prix
-Sakhir,Bahrain Grand Prix
-Spa-Francorchamps,Belgian Grand Prix
-Silverstone,British Grand Prix
-Montréal,Canadian Grand Prix
-Shanghai,Chinese Grand Prix
-Zandvoort,Dutch Grand Prix
-Imola,Emilia Romagna Grand Prix
-Le Castellet,French Grand Prix
-Budapest,Hungarian Grand Prix
-Monza,Italian Grand Prix
-Suzuka,Japanese Grand Prix
-Las Vegas,Las Vegas Grand Prix
-Mexico City,Mexico City Grand Prix
-Miami,Miami Grand Prix
-Miami Gardens,Miami Grand Prix
-Monaco,Monaco Grand Prix
-Monte Carlo,Monaco Grand Prix
-Portimão,Portuguese Grand Prix
-Lusail,Qatar Grand Prix
-Sochi,Russian Grand Prix
-Jeddah,Saudi Arabian Grand Prix
-Marina Bay,Singapore Grand Prix
-Barcelona,Spanish Grand Prix
-Spielberg,Styrian Grand Prix
-São Paulo,São Paulo Grand Prix
-Istanbul,Turkish Grand Prix
-Austin,United States Grand Prix
+circuitKey,circuit,gp
+Abu Dhabi Grand Prix_Yas Island,Yas Island,Abu Dhabi Grand Prix
+Australian Grand Prix_Melbourne,Melbourne,Australian Grand Prix
+Austrian Grand Prix_Spielberg,Spielberg,Austrian Grand Prix
+Azerbaijan Grand Prix_Baku,Baku,Azerbaijan Grand Prix
+Bahrain Grand Prix_Sakhir,Sakhir,Bahrain Grand Prix
+Belgian Grand Prix_Spa-Francorchamps,Spa-Francorchamps,Belgian Grand Prix
+British Grand Prix_Silverstone,Silverstone,British Grand Prix
+Canadian Grand Prix_Montréal,Montréal,Canadian Grand Prix
+Chinese Grand Prix_Shanghai,Shanghai,Chinese Grand Prix
+Dutch Grand Prix_Zandvoort,Zandvoort,Dutch Grand Prix
+Emilia Romagna Grand Prix_Imola,Imola,Emilia Romagna Grand Prix
+French Grand Prix_Le Castellet,Le Castellet,French Grand Prix
+Hungarian Grand Prix_Budapest,Budapest,Hungarian Grand Prix
+Italian Grand Prix_Monza,Monza,Italian Grand Prix
+Japanese Grand Prix_Suzuka,Suzuka,Japanese Grand Prix
+Las Vegas Grand Prix_Las Vegas,Las Vegas,Las Vegas Grand Prix
+Mexico City Grand Prix_Mexico City,Mexico City,Mexico City Grand Prix
+Miami Grand Prix_Miami,Miami,Miami Grand Prix
+Miami Grand Prix_Miami Gardens,Miami Gardens,Miami Grand Prix
+Monaco Grand Prix_Monaco,Monaco,Monaco Grand Prix
+Monaco Grand Prix_Monte Carlo,Monte Carlo,Monaco Grand Prix
+Portuguese Grand Prix_Portimão,Portimão,Portuguese Grand Prix
+Qatar Grand Prix_Lusail,Lusail,Qatar Grand Prix
+Russian Grand Prix_Sochi,Sochi,Russian Grand Prix
+Saudi Arabian Grand Prix_Jeddah,Jeddah,Saudi Arabian Grand Prix
+Singapore Grand Prix_Marina Bay,Marina Bay,Singapore Grand Prix
+Spanish Grand Prix_Barcelona,Barcelona,Spanish Grand Prix
+Styrian Grand Prix_Spielberg,Spielberg,Styrian Grand Prix
+São Paulo Grand Prix_São Paulo,São Paulo,São Paulo Grand Prix
+Turkish Grand Prix_Istanbul,Istanbul,Turkish Grand Prix
+United States Grand Prix_Austin,Austin,United States Grand Prix
